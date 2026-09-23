@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "072a4de73b88bbccdb47e411",
+  "owner": "tqmdrxh",
+  "repo": "page-5f42bbf3a7c411c68163b18b",
+  "title": "FreeGate",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f42bbf3a7c411c68163b18b",
+      "a": "FreeGate",
+      "b": "稳定全球clash加速器",
+      "entity": "FreeGate",
+      "brand": "FreeGate",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b6c4caee560297ae7ed637e61f62e496cd42e19a7f3ec4addbb2e577d3247be5",
+      "content": {
+        "primary_entity": "FreeGate",
+        "keyword1": "FreeGate",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入 FreeGate 订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，导入订阅即可开始使用 FreeGate。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，FreeGate 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，覆盖个人日常、多设备家庭与小型团队场景。旗舰版内置 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版支持企业定制路由与专属客户经理，按年付可节省两个月费用。",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三方面快速定位适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合单人日常浏览与流媒体使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与优先工单支持。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡进阶",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "FreeGate 提供基础版、旗舰版与团队版三档订阅，覆盖 3 到 20 台设备与 100GB 到 1000GB 月流量，满足个人、家庭与小型团队的跨境加速需求。",
+          "AI_HERO_SUBTITLE": "多档订阅覆盖多设备场景",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与原生流媒体解锁",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年适合单人，旗舰版 ¥35/月或 ¥350/年适合多设备，团队版 ¥85/月或 ¥850/年面向协作场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版中选定一档订阅。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看对应平台的订阅导入方式。",
+          "AI_STEP_TEXT_3": "依照所选客户端的配置文档导入订阅，连接节点后即可使用。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "FreeGate 多设备加速",
+          "AI_FAQ_ANSWER_1": "基础版月付 ¥15，年付 ¥150，含 100GB 流量与 3 台设备；旗舰版月付 ¥35，年付 ¥350，含 300GB 流量与 5 台设备，并带 IPLC 专线优化。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。多设备同时在线请按套餐上限选择，超出后需要升级。",
+          "AI_FAQ_ANSWER_3": "在 FreeGate 客户端粘贴订阅链接后更新即可拉取节点。不同客户端导入方式略有差异，参照所用客户端的文档操作。",
+          "AI_FAQ_ANSWER_4": "可以。年付方案比按月支付节省两个月费用，例如旗舰版按年付仅需 ¥350，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "旗舰版增加了全节点原生流媒体解锁、IPLC 专线游戏加速优化以及 7x24 优先工单支持，适合对线路质量和售后响应有更高要求的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "FreeGate 各套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版的主要区别是什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mesx5h38l6sa25i.com",
+    "host": "xn--mesx5h38l6sa25i.com"
+  },
+  "file_hashes": {
+    "index.html": "2f5c1c65d1ee8b703ef34eecc8b8575e3d9130ee51fdf4b9a3b407551764e2fb",
+    "sitemap.xml": "9a2d030d5e04d49063f2838b39bdafa5c2620699f06aaa10335d383069f00b8e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "70bc1cb34175a0c1c0e9d573663053dae3243a0a26c514bf6c00e1e62971a483",
+    "robots.txt": "7374b8307021907fb62b8e80ff5cee4fd114330b1c2a879e876959fb069bbb2f",
+    "0834ef08ffc9151c3f521101a11be1f6.txt": "e092ef28edeb777863578e889b11b506cbf91b1c43a9f22e75cee5a3f01a7ed9"
+  },
+  "revision": "403e47cdcb976caa55ef3ee4386b117a26a6d4e76b60420d8b112375d33be3f0"
+}
